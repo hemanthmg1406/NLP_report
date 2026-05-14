@@ -1,0 +1,15 @@
+\begin{thebibliography}{1}
+
+\bibitem{chen2016xgboost}
+T.~Chen and C.~Guestrin, ``Xgboost: A scalable tree boosting system,'' in {\em Proceedings of KDD '16}, 2016.
+
+\bibitem{yeo2000new}
+I.-K. Yeo and R.~A. Johnson, ``A new family of power transformations to improve normality or symmetry,'' {\em Biometrika}, 2000.
+
+\bibitem{muggeo2003estimating}
+V.~M.~R. Muggeo, ``Estimating regression models with unknown break-points,'' {\em Statistics in Medicine}, 2003.
+
+\bibitem{hansen2000sample}
+B.~E. Hansen, ``Sample splitting and threshold estimation,'' {\em Econometrica}, 2000.
+
+\end{thebibliography}
