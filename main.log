@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.5.13)  14 MAY 2026 15:17
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.5.13)  14 MAY 2026 15:38
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -8,7 +8,7 @@ entering extended mode
 LaTeX2e <2025-11-01>
 L3 programming layer <2026-01-19>
 
-LaTeX Info: Writing file `./sample.bib'.
+LaTeX Warning: Writing or overwriting file `sample.bib'.
 
 \openout15 = `sample.bib'.
 
@@ -381,7 +381,7 @@ Package: fancyhdr 2025/02/07 v5.2 Extensive control of page headers and footers
 \f@nch@widthR=\skip70
 \@temptokenb=\toks31
 )
-LaTeX Font Info:    Trying to load font information for T1+lmr on input line 82.
+LaTeX Font Info:    Trying to load font information for T1+lmr on input line 78.
  (/usr/local/texlive/2026/texmf-dist/tex/latex/lm/t1lmr.fd
 File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 ) (/usr/local/texlive/2026/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
@@ -390,24 +390,24 @@ File: l3backend-pdftex.def 2025-10-09 L3 backend support: PDF output (pdfTeX)
 ) (./main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 82.
-LaTeX Font Info:    ... okay on input line 82.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 82.
-LaTeX Font Info:    ... okay on input line 82.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 82.
-LaTeX Font Info:    ... okay on input line 82.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 82.
-LaTeX Font Info:    ... okay on input line 82.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 82.
-LaTeX Font Info:    ... okay on input line 82.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 82.
-LaTeX Font Info:    ... okay on input line 82.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 82.
-LaTeX Font Info:    ... okay on input line 82.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 82.
-LaTeX Font Info:    ... okay on input line 82.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 82.
-LaTeX Font Info:    ... okay on input line 82.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 78.
+LaTeX Font Info:    ... okay on input line 78.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 78.
+LaTeX Font Info:    ... okay on input line 78.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 78.
+LaTeX Font Info:    ... okay on input line 78.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 78.
+LaTeX Font Info:    ... okay on input line 78.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 78.
+LaTeX Font Info:    ... okay on input line 78.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 78.
+LaTeX Font Info:    ... okay on input line 78.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 78.
+LaTeX Font Info:    ... okay on input line 78.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 78.
+LaTeX Font Info:    ... okay on input line 78.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 78.
+LaTeX Font Info:    ... okay on input line 78.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -443,13 +443,13 @@ LaTeX Font Info:    ... okay on input line 82.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Info: Redefining \microtypecontext on input line 82.
-Package microtype Info: Applying patch `item' on input line 82.
-Package microtype Info: Applying patch `toc' on input line 82.
-Package microtype Info: Applying patch `eqnum' on input line 82.
-Package microtype Info: Applying patch `footnote' on input line 82.
-Package microtype Info: Applying patch `verbatim' on input line 82.
-LaTeX Info: Redefining \microtypesetup on input line 82.
+LaTeX Info: Redefining \microtypecontext on input line 78.
+Package microtype Info: Applying patch `item' on input line 78.
+Package microtype Info: Applying patch `toc' on input line 78.
+Package microtype Info: Applying patch `eqnum' on input line 78.
+Package microtype Info: Applying patch `footnote' on input line 78.
+Package microtype Info: Applying patch `verbatim' on input line 78.
+LaTeX Info: Redefining \microtypesetup on input line 78.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
@@ -485,57 +485,57 @@ Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: float package is loaded.
 Package caption Info: hyperref package is loaded.
 Package caption Info: End \AtBeginDocument code.
-Package hyperref Info: Link coloring OFF on input line 82.
+Package hyperref Info: Link coloring OFF on input line 78.
  (./main.out) (./main.out)
 \@outlinefile=\write3
 \openout3 = `main.out'.
 
-<amberg.svg.png, id=124, 1204.5pt x 615.29875pt>
-File: amberg.svg.png Graphic file (type png)
-<use amberg.svg.png>
-Package pdftex.def Info: amberg.svg.png  used on input line 93.
+<images/amberg.svg.png, id=124, 1204.5pt x 615.29875pt>
+File: images/amberg.svg.png Graphic file (type png)
+<use images/amberg.svg.png>
+Package pdftex.def Info: images/amberg.svg.png  used on input line 89.
 (pdftex.def)             Requested size: 151.3706pt x 77.32526pt.
  [1
 
-{/usr/local/texlive/2026/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/local/texlive/2026/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc} <./amberg.svg.png>]
-Overfull \hbox (11.20682pt too wide) in paragraph at lines 143--144
+{/usr/local/texlive/2026/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/local/texlive/2026/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc} <./images/amberg.svg.png>]
+Overfull \hbox (11.20682pt too wide) in paragraph at lines 139--140
 \T1/lmr/m/n/12 (-20) To ad-dress the ef-fects of heavy-tailed dis-tri-bu-tions and out-liers, ap-plied RankGauss
  []
 
-<05_rankgauss_transform_v2.png, id=136, 1011.78pt x 433.62pt>
-File: 05_rankgauss_transform_v2.png Graphic file (type png)
-<use 05_rankgauss_transform_v2.png>
-Package pdftex.def Info: 05_rankgauss_transform_v2.png  used on input line 147.
+<images/05_rankgauss_transform_v2.png, id=136, 1011.78pt x 433.62pt>
+File: images/05_rankgauss_transform_v2.png Graphic file (type png)
+<use images/05_rankgauss_transform_v2.png>
+Package pdftex.def Info: images/05_rankgauss_transform_v2.png  used on input line 143.
 (pdftex.def)             Requested size: 358.50229pt x 153.64174pt.
-LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 153.
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 149.
 (/usr/local/texlive/2026/texmf-dist/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OML+lmm on input line 153.
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 149.
  (/usr/local/texlive/2026/texmf-dist/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 153.
+LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 149.
  (/usr/local/texlive/2026/texmf-dist/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 153.
+LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 149.
  (/usr/local/texlive/2026/texmf-dist/tex/latex/lm/omxlmex.fd
 File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <12> on input line 153.
+(Font)              <12> on input line 149.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 153.
+(Font)              <8> on input line 149.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 153.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 153.
+(Font)              <6> on input line 149.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 149.
  (/usr/local/texlive/2026/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 ) (/usr/local/texlive/2026/texmf-dist/tex/latex/microtype/mt-msa.cfg
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 153.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 149.
  (/usr/local/texlive/2026/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) (/usr/local/texlive/2026/texmf-dist/tex/latex/microtype/mt-msb.cfg
@@ -544,9 +544,9 @@ File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.154 
-       [1 <./05_rankgauss_transform_v2.png>]
-LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 166.
+l.150 
+       [1 <./images/05_rankgauss_transform_v2.png>]
+LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 162.
  (/usr/local/texlive/2026/texmf-dist/tex/latex/lm/t1lmtt.fd
 File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
@@ -554,43 +554,43 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `lmtt' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-<01_permutation_importance_v2.png, id=144, 867.24pt x 578.16pt>
-File: 01_permutation_importance_v2.png Graphic file (type png)
-<use 01_permutation_importance_v2.png>
-Package pdftex.def Info: 01_permutation_importance_v2.png  used on input line 176.
+<images/01_permutation_importance_v2.png, id=144, 867.24pt x 578.16pt>
+File: images/01_permutation_importance_v2.png Graphic file (type png)
+<use images/01_permutation_importance_v2.png>
+Package pdftex.def Info: images/01_permutation_importance_v2.png  used on input line 172.
 (pdftex.def)             Requested size: 199.1693pt x 132.7799pt.
- [2{/usr/local/texlive/2026/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/local/texlive/2026/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/usr/local/texlive/2026/texmf-dist/fonts/enc/dvips/lm/lm-mathex.enc}{/usr/local/texlive/2026/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}] [3 <./01_permutation_importance_v2.png>]
-<final_prediction_accuracy.png, id=167, 578.16pt x 433.62pt>
-File: final_prediction_accuracy.png Graphic file (type png)
-<use final_prediction_accuracy.png>
-Package pdftex.def Info: final_prediction_accuracy.png  used on input line 206.
+ [2{/usr/local/texlive/2026/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/local/texlive/2026/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/usr/local/texlive/2026/texmf-dist/fonts/enc/dvips/lm/lm-mathex.enc}{/usr/local/texlive/2026/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}] [3 <./images/01_permutation_importance_v2.png>]
+<images/final_prediction_accuracy.png, id=167, 578.16pt x 433.62pt>
+File: images/final_prediction_accuracy.png Graphic file (type png)
+<use images/final_prediction_accuracy.png>
+Package pdftex.def Info: images/final_prediction_accuracy.png  used on input line 202.
 (pdftex.def)             Requested size: 239.00558pt x 179.25421pt.
- [4 <./final_prediction_accuracy.png>]
-Overfull \hbox (8.08656pt too wide) in paragraph at lines 239--240
+ [4 <./images/final_prediction_accuracy.png>]
+Overfull \hbox (8.08656pt too wide) in paragraph at lines 235--236
 \T1/lmr/m/n/12 (-20) Initial cor-re-la-tion anal-y-sis was per-formed on all 273 in-put vari-ables in \T1/lmtt/m/n/12 dataset_29\T1/lmr/m/n/12 (-20) .
  []
 
-<Figure_1_Feature_Discovery.png, id=176, 722.7pt x 433.62pt>
-File: Figure_1_Feature_Discovery.png Graphic file (type png)
-<use Figure_1_Feature_Discovery.png>
-Package pdftex.def Info: Figure_1_Feature_Discovery.png  used on input line 243.
+<images/Figure_1_Feature_Discovery.png, id=176, 722.7pt x 433.62pt>
+File: images/Figure_1_Feature_Discovery.png Graphic file (type png)
+<use images/Figure_1_Feature_Discovery.png>
+Package pdftex.def Info: images/Figure_1_Feature_Discovery.png  used on input line 239.
 (pdftex.def)             Requested size: 338.59023pt x 203.15302pt.
 [5]
-<Figure_2_The_Switch.png, id=185, 722.7pt x 433.62pt>
-File: Figure_2_The_Switch.png Graphic file (type png)
-<use Figure_2_The_Switch.png>
-Package pdftex.def Info: Figure_2_The_Switch.png  used on input line 253.
+<images/Figure_2_The_Switch.png, id=185, 722.7pt x 433.62pt>
+File: images/Figure_2_The_Switch.png Graphic file (type png)
+<use images/Figure_2_The_Switch.png>
+Package pdftex.def Info: images/Figure_2_The_Switch.png  used on input line 249.
 (pdftex.def)             Requested size: 338.59023pt x 203.15302pt.
- [6 <./Figure_1_Feature_Discovery.png> <./Figure_2_The_Switch.png>]
-<Figure_3_Ghost_Feature.png, id=195, 722.7pt x 433.62pt>
-File: Figure_3_Ghost_Feature.png Graphic file (type png)
-<use Figure_3_Ghost_Feature.png>
-Package pdftex.def Info: Figure_3_Ghost_Feature.png  used on input line 265.
+ [6 <./images/Figure_1_Feature_Discovery.png> <./images/Figure_2_The_Switch.png>]
+<images/Figure_3_Ghost_Feature.png, id=195, 722.7pt x 433.62pt>
+File: images/Figure_3_Ghost_Feature.png Graphic file (type png)
+<use images/Figure_3_Ghost_Feature.png>
+Package pdftex.def Info: images/Figure_3_Ghost_Feature.png  used on input line 261.
 (pdftex.def)             Requested size: 338.59023pt x 203.15302pt.
-LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 275.
+LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 271.
  (/usr/local/texlive/2026/texmf-dist/tex/latex/lm/ts1lmr.fd
 File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-) [7{/usr/local/texlive/2026/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc} <./Figure_3_Ghost_Feature.png>] (./main.bbl) [8] (./main.aux)
+) [7{/usr/local/texlive/2026/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc} <./images/Figure_3_Ghost_Feature.png>] (./main.bbl) [8] (./main.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2026-01-19>
@@ -599,10 +599,10 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 1E3EE7A44EC415D27B6F0E6790867F8B;6661.
  ) 
 Here is how much of TeX's memory you used:
- 15059 strings out of 467525
- 242999 string characters out of 5418982
- 684371 words of memory out of 5000000
- 43610 multiletter control sequences out of 15000+600000
+ 15074 strings out of 467525
+ 243815 string characters out of 5418982
+ 684382 words of memory out of 5000000
+ 43625 multiletter control sequences out of 15000+600000
  684553 words of font info for 127 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  69i,13n,79p,1039b,508s stack positions out of 10000i,1000n,20000p,200000b,200000s

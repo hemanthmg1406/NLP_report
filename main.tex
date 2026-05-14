@@ -28,15 +28,10 @@
 }
 \end{filecontents*}
 
-% main.tex
-% Layout inspired by Darshan_ML_Report.pdf (margins/layout). Content taken from Report draft.pdf.
-% Structure source: :contentReference[oaicite:2]{index=2}
-% Content source:   :contentReference[oaicite:3]{index=3}
+
 
 \documentclass[12pt,a4paper]{article}
 
-% ---------- Geometry (A4) using margins measured from Darshan_ML_Report.pdf ----------
-% Left: 62.82mm, Right: 64.01mm, Top: 43.86mm, Bottom: 45.55mm
 \usepackage[paper=a4paper,
             left=35mm,
             right=35mm,
@@ -48,8 +43,9 @@
 \usepackage{lmodern}
 \usepackage{microtype}
 \usepackage{setspace}
-\usepackage{parskip}      % better paragraph spacing with large margins
+\usepackage{parskip}     
 \usepackage{graphicx}
+\graphicspath{{images/}}
 \usepackage{caption}
 \usepackage{subcaption}
 \usepackage{booktabs}
